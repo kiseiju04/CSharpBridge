@@ -24,10 +24,10 @@ I've a lot of expirience in c# and a bit in minecraft modding. Unfortunatly I'm 
 And all help is welcome.
 
 # Disclaimer 
-I know that this is not something much usefull and that it's a lot of work, but I think this will be a very interesting project. That maybe will grow and be usefull to someone.
+I know that this is not something much useful and that it's a lot of work, but I think this will be a very interesting project. That maybe will grow and be useful to someone.
 
 # Conclusion
-I hope that this project will be helpfull or interesting to someone else.
+I hope that this project will be helpful or interesting to someone else.
 
 ### P.S.
 Sorry if my english is not so good but I'm italian
