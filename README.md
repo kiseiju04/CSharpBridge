@@ -1,4 +1,4 @@
-# CSharpBridge
+# NetBridge
 A Bridge that makes possible mod Minecraft in C#
 
 # Discord
