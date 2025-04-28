@@ -2,7 +2,7 @@
 A Bridge that makes possible mod Minecraft in C#
 
 # Discord
-[the Discord Server]([https://discord.gg/fT99w8ea](https://discord.gg/66jFwruquq)https://discord.gg/66jFwruquq)
+[the Discord Server](https://discord.gg/66jFwruquq)
 
 # W.I.P.
 This is a work in progress and at this moment there isn't any code yet, I'm still figuring out how to implemnt it the right way
